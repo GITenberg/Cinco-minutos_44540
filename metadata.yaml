@@ -1,0 +1,30 @@
+_repo: Cinco-minutos_44540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - De Alencar, José Martiniano
+    - Alencar, Jose Martiniano de
+    - Alencar, José de
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+description: ''
+gutenberg_issued: '2013-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44540'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Cinco minutos
+url: http://www.gutenberg.org/ebooks/44540
